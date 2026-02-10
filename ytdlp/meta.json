@@ -1,0 +1,26 @@
+{
+    "app": {
+        "_author": "SNEHASYS TECHNOLOGIES",
+        "_buy_url": "https://dlpplay.snehasish.in/buy",
+        "_check_limit_url": "wss://dlpplay.snehasish.in/stats",
+        "_docs_url": "https://dlpplay.snehasish.in/docs",
+        "_github_url": "",
+        "_notification_url": "https://dlpplay.snehasish.in/notifications",
+        "_offers_url": "https://dlpplay.snehasish.in/offers",
+        "_update": "latest",
+        "_update_url": "",
+        "_version": "1.4.0",
+        "_website": "https://dlpplay.snehasish.in/"
+    },
+    "offers": {
+        "_offers_general": "-20%"
+    },
+    "ytdlp_server": {
+        "acess_token": "",
+        "daily_quota": "",
+        "daily_quota_left": "",
+        "fetch_key": "",
+        "host_url": "https://dlpplay.snehasish.in/",
+        "monthly_quota_left": ""
+    }
+}
